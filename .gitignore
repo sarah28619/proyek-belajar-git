@@ -1,0 +1,8 @@
+# mengambaikan folder yang akan di upload ke git 
+project kasir/
+
+# mengabaikan folder yang akan di upload ke github
+test.log
+
+# mengabaikan file dengan ekstensi tertentu 
+*.py
